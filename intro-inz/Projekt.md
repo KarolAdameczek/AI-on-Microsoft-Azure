@@ -43,7 +43,7 @@
 | 9        | beta          | Szymon Męcina                                     | EY - Aspect based sentiment analysis                         | https://github.com/aksloms/Azure-Twitter-Sentiment-Analysis |
 | 10       | beta          | Mateusz  Kalata                                   | EY - Document semantic search                                |           |
 | 11       | beta          | Uladzislau  Starastsenka                          | EY - Document semantic search                                |           |
-| 12       | beta          | Karol  Adameczek                                  | EY - Text generation                                         |           |
+| 12       | beta          | Karol  Adameczek                                  | EY - Text generation                                         |https://github.com/KarolAdameczek/SentenceCompletionAzure |
 | 13       | gamma         | Paweł Skiba                                       | Lingaro - znalezienie elementów  interaktywnych na stronie www |           |
 | 14       | gamma         | Patryk  Piętka                                    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions |           |
 | 15       | delta         | Maciej  Czarkowski                                | Semantive - Knowledge Mining with  Cognitive Services        |   https://github.com/azureWUT/semantiveOnAzure        |
